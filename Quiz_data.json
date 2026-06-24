@@ -1,0 +1,21 @@
+{
+  "Python Basics": [
+    {
+      "question": "What is the output of 2 * 3?",
+      "options": ["6", "8", "9", "5"],
+      "answer": "6"
+    },
+    {
+      "question": "What is the keyword to define a function?",
+      "options": ["func", "define", "def", "function"],
+      "answer": "def"
+    }
+  ],
+  "General Knowledge": [
+    {
+      "question": "How many Planet are there in Solar system?",
+      "options": ["10", "9", "8", "7"],
+      "answer": "8"
+    }
+  ]
+}
